@@ -21,7 +21,7 @@ This project is a clone of the following Figma into a functional and responsive 
 
 ```bash
 git clone https://github.com/gyanaranjans/Cash-app.git
-```
+
 ```
 
 2. run the development server:
