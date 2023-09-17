@@ -13,7 +13,7 @@ This project is a clone of the following Figma into a functional and responsive 
 
 1. Repository Link: https://github.com/gyanaranjans/Cash-app
 
-2. Deployment Link: 
+2. Deployment Link: https://cash-app-black.vercel.app/
 
 ## Local Setup
 
