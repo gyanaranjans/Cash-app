@@ -7,6 +7,7 @@ This project is a clone of the following Figma into a functional and responsive 
 
 1. Next JS
 2. TypeScript
+3. javaScript
 
 
 ## Project Links
